@@ -1,0 +1,49 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* ASSIGNMENT #7 : Virtual Functions
+**************************************************
+Creating Math Student...
+Overloaded Constructor Called
+Creating CS1C Student...
+Creating Student...
+Printing math student...
+PrintAll Called
+Student Name:       Joe Calculus
+Student ID:         668888
+Student Phone:      949-555-1234
+Student Age:        23
+Student Gender:     Male
+Student Standing:   Freshman
+Student GPA:        3.30
+Student Address:    1234 Main
+Student City:       Laguna Niguel
+Student State:      CA
+Student ZipCode     92677
+
+Printing cs student...
+PrintAll Called
+Student Name:       Alberto Pujols
+Student ID:         668899
+Student Phone:      949-665-1234
+Student Age:        35
+Student Gender:     Male
+Student Standing:   Freshman
+Student GPA:        3.30
+Assignment Score:   778899
+Python Knowledge:   Yes
+Graduation Date:    05/12/2016
+
+Printing normal student...
+PrintAll Called
+Student Name:       Mike Trout
+Student ID:         778899
+Student Phone:      949-555-1234
+Student Age:        22
+Student Gender:     Male
+Student Standing:   Freshman
+Student GPA:        4.00
+
+Testing Finished!
+Deconstructor Called

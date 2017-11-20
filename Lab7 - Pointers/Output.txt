@@ -1,0 +1,23 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* LAB #7        : Pointer Exercise
+**************************************************
+
+int_var:  100
+*int_ptr1: 100
+*int_ptr2: 200
+
+int_var:  200
+*int_ptr1: 200
+*int_ptr2: 300
+
+int_var:  200
+*int_ptr1: 400
+*int_ptr2: 500
+*int_ptr3: 600
+
+*int_ptr1: 400
+*int_ptr2: 400
+*int_ptr3: 400

@@ -1,0 +1,143 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* LAB #5        : Inheritance - Cylinder
+**************************************************
+Please input cylinder radius: 3
+Please input cylinder height: 2
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: 4
+
+The radius is: 3
+The height is: 2
+
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: 2
+
+The Volume is: 56.5488
+
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: 3
+
+The Surface Area is: 94.248
+
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: 1
+
+Please input cylinder radius: 5
+Please input cylinder height: 10
+
+
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: 4
+
+The radius is: 5
+The height is: 10
+
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: 1
+
+Please input cylinder radius: 6.354
+Please input cylinder height: 2.415864
+
+
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: 2
+
+The Volume is: 306.42
+
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: 4
+
+The radius is: 6.354
+The height is: 2.41586
+
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: -1
+
+The number -1 is an invalid entry.
+**** Please input a number between 0 and 4 ****
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: 5
+
+The number 5 is an invalid entry.
+**** Please input a number between 0 and 4 ****
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: l
+
+**** Please input a NUMBER between 0 and 4 ****
+
+Menu Options:
+1. Set Cylinder Dimensions
+2. Calculate Volume
+3. Calculate Surface Area
+4. Get Cylinder Dimensions
+0. Exit Program
+Please input command from menu: 0

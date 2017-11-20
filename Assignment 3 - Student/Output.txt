@@ -1,0 +1,150 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* ASSIGNMENT #3 : Student
+**************************************************
+Generating Student w/ overloaded constructor: Mike Trout... 
+
+Student Info: 
+Student Name:       Mike Trout
+Student ID:         778899
+Student Phone:      949-555-1234
+Student Age:        22
+Student Gender:     Male
+Student Standing:   Freshman
+Student GPA:        4.00
+
+Change Student? (y/n): y
+
+
+Generating Student: Miguel Cabrera... 
+
+Student Info: 
+Student Name:       Miguel Cabrera
+Student ID:         456789
+Student Phone:      248-555-5555
+Student Age:        29
+Student Gender:     Male
+Student Standing:   Sophomore
+Student GPA:        3.33
+
+Change Student? (y/n): y
+
+
+Generating Student: Bill O'Reilly... 
+
+Student Info: 
+Student Name:       Bill O'Reilly
+Student ID:         87654
+Student Phone:      703-703-1234
+Student Age:        57
+Student Gender:     Male
+Student Standing:   Sophomore
+Student GPA:        3.80
+
+Change Student? (y/n): y
+
+
+Generating Student: Oprah Winfrey... 
+
+Student Info: 
+Student Name:       Oprah Winfrey
+Student ID:         777744
+Student Phone:      213-555-6789
+Student Age:        50
+Student Gender:     Female
+Student Standing:   Freshman
+Student GPA:        3.23
+
+
+Proceeding to CS1C Students (enter to continue): 
+
+
+Generating CS Student w/ overloaded constructor: Alberto Pujols... 
+
+Student Info: 
+Student Name:       Alberto Pujols
+Student ID:         668899
+Student Phone:      949-665-1234
+Student Age:        35
+Student Gender:     Male
+Student Standing:   Freshman
+Student GPA:        3.30
+Assignment Score:   778899
+Python Knowledge:   Yes
+Graduation Date:    05/12/2016
+
+Change CS Student? (y/n): y
+
+
+Generating CS Student: Clayton Kershaw... 
+
+Student Info: 
+Student Name:       Clayton Kershaw
+Student ID:         156789
+Student Phone:      248-555-6543
+Student Age:        29
+Student Gender:     Male
+Student Standing:   Sophomore
+Student GPA:        2.50
+Assignment Score:   456789
+Python Knowledge:   No
+Graduation Date:    05/11/2015
+
+Change CS Student? (y/n): y
+
+
+Generating CS Student: Jim Rome... 
+
+Student Info: 
+Student Name:       Jim Rome
+Student ID:         87654
+Student Phone:      703-703-7654
+Student Age:        40
+Student Gender:     Male
+Student Standing:   Sophomore
+Student GPA:        3.20
+Assignment Score:   87654
+Python Knowledge:   Yes
+Graduation Date:    05/11/2015
+
+
+Proceeding to Test Changing data members... 
+
+Before Changes:
+Student Name:       Jim Rome
+Student ID:         87654
+Student Phone:      703-703-7654
+Student Age:        40
+Student Gender:     Male
+Student Standing:   Sophomore
+Student GPA:        3.20
+Assignment Score:   87654
+Python Knowledge:   Yes
+Graduation Date:    05/11/2015
+
+Change Name: Jeffrey Lo
+Change Age: 20
+Change Phone: 949-859-3271
+Change Student ID: 374780
+Change Total Score: 100
+Does student know python? (y/n):n
+Change Grad Date:
+Input Month: 04
+Input Day: 25
+Input Year:1994
+
+After Changes:
+Student Name:       Jeffrey Lo
+Student ID:         374780
+Student Phone:      949-859-3271
+Student Age:        20
+Student Gender:     Male
+Student Standing:   Sophomore
+Student GPA:        3.20
+Assignment Score:   100
+Python Knowledge:   No
+Graduation Date:    04/25/1994
+
+Testing Complete

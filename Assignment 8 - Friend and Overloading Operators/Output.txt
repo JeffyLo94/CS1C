@@ -1,0 +1,32 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* ASSIGNMENT #8 : Friends & Overloaded Operators
+**************************************************
+Creating Math Student...
+Overloaded Constructor Called
+Creating 1st CS1C Student...
+Creating 2nd CS1C Student...
+Creating Student...
+
+Testing Friend Function:
+Are CS and Math Student Equal? False
+Changing ID of Math Student to 668899...
+Are CS and Math Student Equal now? True
+
+Testing Equality Operator:
+Are both CS Students' Ids equal? Unequal
+Changing ID of 2nd CS student 668899...
+Are both CS Students equal now? Equal
+
+Testing Addition Method:
+Current CS Student One Age: 35
+Adding to age by 5: 40
+
+Testing Addition Operator:
+Current CS Student Two Age: 35
+Adding to age by 5: 40
+
+Testing Finished!
+Deconstructor Called

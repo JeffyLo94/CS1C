@@ -1,0 +1,276 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* ASSIGNMENT #9 : Queue
+**************************************************
+
+
+TESTING NON-STL QUEUE
+
+String Test
+Adding 6 things to queue...
+Printing Queue:
+	String 1
+	String 2
+	String 3
+	String 4
+	String 5
+	String 6
+Deleting 4 things from Queue...
+	Dequeuing: String 1
+	Dequeuing: String 2
+	Dequeuing: String 3
+	Dequeuing: String 4
+Printing Queue:
+	String 5
+	String 6
+Adding 5 things to queue...
+Printing Queue:
+	String 5
+	String 6
+	String 7
+	String 8
+	String 9
+	String 10
+	String 11
+Deleting 3 things from Queue...
+	Dequeuing: String 5
+	Dequeuing: String 6
+	Dequeuing: String 7
+Printing Queue:
+	String 8
+	String 9
+	String 10
+	String 11
+
+Integer Test
+Adding 6 integers to queue...
+Printing Queue:
+	0
+	1
+	2
+	3
+	4
+	5
+Deleting 4 integers from Queue...
+	Dequeuing: 0
+	Dequeuing: 1
+	Dequeuing: 2
+	Dequeuing: 3
+Printing Queue:
+	4
+	5
+Adding 5 integers to queue...
+Printing Queue:
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+Deleting 3 integers from Queue...
+	Dequeuing: 4
+	Dequeuing: 5
+	Dequeuing: 6
+Printing Queue:
+	7
+	8
+	9
+	10
+
+Double Test
+Adding 6 doubles to queue...
+Printing Queue:
+	0.5
+	1.5
+	2.5
+	3.5
+	4.5
+	5.5
+Deleting 4 doubles from Queue...
+	Dequeuing: 0.5
+	Dequeuing: 1.5
+	Dequeuing: 2.5
+	Dequeuing: 3.5
+Printing Queue:
+	4.5
+	5.5
+Adding 5 double to queue...
+Printing Queue:
+	4.5
+	5.5
+	6.5
+	7.5
+	8.5
+	9.5
+	10.5
+Deleting 3 doubles from Queue...
+	Dequeuing: 4.5
+	Dequeuing: 5.5
+	Dequeuing: 6.5
+Printing Queue:
+	7.5
+	8.5
+	9.5
+	10.5
+
+
+Integer Queue is Not Empty
+Emptying Queue...
+Integer Queue is Empty
+Test Dequeuing empty Queue:
+The Queue is EMPTY
+Filling Queue...
+Integer Queue is Full
+Front is: 0
+Printing: 
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+Test Enqueuing full Queue:
+The Queue is FULL
+
+
+TESTING STL BASED QUEUE
+
+String Test
+Adding 6 things to queue...
+Printing Queue:
+	String 1
+	String 2
+	String 3
+	String 4
+	String 5
+	String 6
+Deleting 4 things from Queue...
+	Dequeuing: String 1
+	Dequeuing: String 2
+	Dequeuing: String 3
+	Dequeuing: String 4
+Printing Queue:
+	String 5
+	String 6
+Adding 5 things to queue...
+Printing Queue:
+	String 5
+	String 6
+	String 7
+	String 8
+	String 9
+	String 10
+	String 11
+Deleting 3 things from Queue...
+	Dequeuing: String 5
+	Dequeuing: String 6
+	Dequeuing: String 7
+Printing Queue:
+	String 8
+	String 9
+	String 10
+	String 11
+
+Integer Test
+Adding 6 integers to queue...
+Printing Queue:
+	0
+	1
+	2
+	3
+	4
+	5
+Deleting 4 integers from Queue...
+	Dequeuing: 0
+	Dequeuing: 1
+	Dequeuing: 2
+	Dequeuing: 3
+Printing Queue:
+	4
+	5
+Adding 5 integers to queue...
+Printing Queue:
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+Deleting 3 integers from Queue...
+	Dequeuing: 4
+	Dequeuing: 5
+	Dequeuing: 6
+Printing Queue:
+	7
+	8
+	9
+	10
+
+Double Test
+Adding 6 doubles to queue...
+Printing Queue:
+	0.5
+	1.5
+	2.5
+	3.5
+	4.5
+	5.5
+Deleting 4 doubles from Queue...
+	Dequeuing: 0.5
+	Dequeuing: 1.5
+	Dequeuing: 2.5
+	Dequeuing: 3.5
+Printing Queue:
+	4.5
+	5.5
+Adding 5 double to queue...
+Printing Queue:
+	4.5
+	5.5
+	6.5
+	7.5
+	8.5
+	9.5
+	10.5
+Deleting 3 doubles from Queue...
+	Dequeuing: 4.5
+	Dequeuing: 5.5
+	Dequeuing: 6.5
+Printing Queue:
+	7.5
+	8.5
+	9.5
+	10.5
+
+
+Integer Queue is Not Empty
+Emptying Queue...
+Integer Queue is Empty
+Test Dequeuing empty Queue:
+The Queue is EMPTY
+Filling Queue...
+Integer Queue is Full
+Front is: 0
+Printing: 
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+Test Enqueuing full Queue:
+The Queue is FULL
+
+Testing Finished!

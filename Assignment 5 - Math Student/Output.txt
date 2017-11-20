@@ -1,0 +1,130 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* ASSIGNMENT #5 : MathStudent
+**************************************************
+Creating Student 1:
+
+Overloaded Constructor Called
+Student Name:       Joe Calculus
+Student ID:         668888
+Student Phone:      949-555-1234
+Student Age:        23
+Student Gender:     Male
+Student Standing:   Freshman
+Student GPA:        3.30
+Student Address:    1234 Main
+Student City:       Laguna Niguel
+Student State:      CA
+Student ZipCode     92677
+
+
+
+Student2 created with Initialization Construct:
+Copy Constructor Called
+Student Name:       Joe Calculus
+Student ID:         668888
+Student Phone:      949-555-1234
+Student Age:        23
+Student Gender:     Male
+Student Standing:   Freshman
+Student GPA:        3.30
+Student Address:    1234 Main
+Student City:       Laguna Niguel
+Student State:      CA
+Student ZipCode     92677
+
+
+
+Student 1 changed with SetAll method...
+
+Outputting Student 1 and Student 2 to prove copy constructor was a deep copy:
+
+Student1:
+Student Name:       Mary Algebra
+Student ID:         777777
+Student Phone:      248-555-1234
+Student Age:        23
+Student Gender:     Male
+Student Standing:   Sophomore
+Student GPA:        3.50
+Student Address:    3333 Marguerite
+Student City:       Mission Viejo
+Student State:      CA
+Student ZipCode     92646
+
+Student2:
+Student Name:       Joe Calculus
+Student ID:         668888
+Student Phone:      949-555-1234
+Student Age:        23
+Student Gender:     Male
+Student Standing:   Freshman
+Student GPA:        3.30
+Student Address:    1234 Main
+Student City:       Laguna Niguel
+Student State:      CA
+Student ZipCode     92677
+
+
+
+Student3 created w/ Default Constructor: 
+Default Constructor Called
+Student Name:       Unknown
+Student ID:         0
+Student Phone:      000-000-0000
+Student Age:        0
+Student Gender:     Undefined
+Student Standing:   Unknown Grade
+Student GPA:        0.00
+Student Address:    Unknown
+Student City:       Unknown
+Student State:      Unknown
+Student ZipCode     0
+
+Student3 modified with deep copy method using Student1: 
+Copy Constructor Called
+Deconstructor Called
+Student Name:       Mary Algebra
+Student ID:         777777
+Student Phone:      248-555-1234
+Student Age:        23
+Student Gender:     Male
+Student Standing:   Sophomore
+Student GPA:        3.50
+Student Address:    3333 Marguerite
+Student City:       Mission Viejo
+Student State:      CA
+Student ZipCode     92646
+
+
+
+Testing Passing and Returning by Copy Methods with student3
+
+Copy Constructor Called
+Passing and Returning by copy
+Copy Constructor Called
+Deconstructor Called
+Deconstructor Called
+
+Passing and Returning by reference
+
+Showing Student 3 remains unchanged: 
+Student Name:       Mary Algebra
+Student ID:         777777
+Student Phone:      248-555-1234
+Student Age:        23
+Student Gender:     Male
+Student Standing:   Sophomore
+Student GPA:        3.50
+Student Address:    3333 Marguerite
+Student City:       Mission Viejo
+Student State:      CA
+Student ZipCode     92646
+
+
+Testing Finished!
+Deconstructor Called
+Deconstructor Called
+Deconstructor Called

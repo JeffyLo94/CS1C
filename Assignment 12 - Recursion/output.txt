@@ -1,0 +1,18 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* ASSIGNMENT #12: Recursion
+**************************************************
+Input starting index: 13
+Input ending index: 20
+Performing Reverse for indices 13 to 20...
+abcedefghijkltsrqponmuvwxyz
+
+Input starting index: 6
+Input ending index: 22
+Perform Reverse for indices 6 to 22...
+abcedevutsrqponmlkjihgfwxyz
+
+Perform Reverse on whole alphabet
+zyxwvutsrqponmlkjihgfedecba

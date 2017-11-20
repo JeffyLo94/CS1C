@@ -1,0 +1,87 @@
+Name:   Jeffrey Lo
+Date:   8/24/2014
+Class:  CS1C
+Welcome to Assignment 1!
+
+Press ENTER to generate your random number: 
+Your number is: 520
+
+Random Number Menu:
+1-Sum the Digits
+2-Triple the Number
+3-Reverse the Digits
+4-Generate and Execute an Array
+0-Exit Program
+Enter a Command: 1
+
+The sum of the digits in the number 520 is: 7
+
+Random Number Menu:
+1-Sum the Digits
+2-Triple the Number
+3-Reverse the Digits
+4-Generate and Execute an Array
+0-Exit Program
+Enter a Command: 2
+
+The tripled value of the number 520 is: 1560
+
+Random Number Menu:
+1-Sum the Digits
+2-Triple the Number
+3-Reverse the Digits
+4-Generate and Execute an Array
+0-Exit Program
+Enter a Command: 3
+
+The reverse of the number 520 is: 25
+
+Random Number Menu:
+1-Sum the Digits
+2-Triple the Number
+3-Reverse the Digits
+4-Generate and Execute an Array
+0-Exit Program
+Enter a Command: 4
+
+
+Press ENTER to sort array: 
+
+Your sorted array is: 
+941
+540
+422
+394
+392
+244
+209
+199
+191
+137
+
+Array has been printed to file...output.txt
+
+Press ENTER to read array from file: 
+
+Your array of 10 random numbers is: 
+941
+540
+422
+394
+392
+244
+209
+199
+191
+137
+
+Random Number Menu:
+1-Sum the Digits
+2-Triple the Number
+3-Reverse the Digits
+4-Generate and Execute an Array
+0-Exit Program
+Enter a Command: 0
+
+Thank you for running!
+ :D

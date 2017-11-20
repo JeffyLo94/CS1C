@@ -1,0 +1,63 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* ASSIGNMENT #4 : Pointers
+**************************************************
+Input number of candidates: 5
+
+Please input candidates name: Jones
+
+Are you sure Jones is the name? (y/n) y
+
+Input the number of votes Jones received: 5000
+
+Are you sure it is 5000? (y/n) y
+
+Please input candidates name: Frolov
+
+Are you sure Frolov is the name? (y/n) y
+
+Input the number of votes Frolov received: 4000
+
+Are you sure it is 4000? (y/n) y
+
+Please input candidates name: Nguyen
+
+Are you sure Nguyen is the name? (y/n) y
+
+Input the number of votes Nguyen received: 6000
+
+Are you sure it is 6000? (y/n) y
+
+Please input candidates name: Steinberg
+
+Are you sure Steinberg is the name? (y/n) y
+
+Input the number of votes Steinberg received: 2500
+
+Are you sure it is 2500? (y/n) y
+
+Please input candidates name: Vinston
+
+Are you sure Vinston is the name? (y/n) n
+Please input candidates name: Vinton
+
+Are you sure Vinton is the name? (y/n) y
+
+Input the number of votes Vinton received: 2000
+
+Are you sure it is 2000? (y/n) n
+Input the number of votes Vinton received: 1800
+
+Are you sure it is 1800? (y/n) y
+
+Candidate           Votes Received      % of Total Votes Received
+Jones               5000                25.91               
+Frolov              4000                20.73               
+Nguyen              6000                31.09               
+Steinberg           2500                12.95               
+Vinton              1800                9.33                
+Total               19300               
+
+The Winner of the Election is Nguyen

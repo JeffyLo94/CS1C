@@ -1,0 +1,24 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* ASSIGNMENT #10: Exceptions
+**************************************************
+Creating array with size of 10...
+Checking Assert (size of Queue is zero),
+	if passes program will attempt to dequeue
+
+Trying to dequeue an empty queue...
+The Queue is EMPTY, cannot dequeue
+
+Filling Queue...
+Checking Full:True
+Trying to Enqueue a full queue...
+The Queue is FULL, cannot add to queue
+Checking Assert (size of Queue is greater than zero),
+	if fails program will terminate.
+
+Assertion failed: testQueue.size() == 0, file ..\main.cpp, line 47
+
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.

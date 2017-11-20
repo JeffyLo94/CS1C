@@ -1,0 +1,30 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1C          : T-Th 6:00p - 9:50p
+* ASSIGNMENT #0 : Extra Credit
+**************************************************
+Opening File...
+Finding Size...
+Reading File...
+Finished Reading...
+Sorting...
+Printing Array: 
+falls
+in
+in
+mainly
+plain
+rain
+Spain
+The
+the
+
+Printing without Duplicates: 
+falls
+in
+mainly
+plain
+rain
+spain
+the
